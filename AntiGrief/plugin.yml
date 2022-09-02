@@ -1,0 +1,10 @@
+name: AntiGrief
+author: Anytown
+description: Anti GRIEFING plugin
+main: Util.Start
+version: 1.0
+
+commands:
+  ilegalcmd:
+    usage: /ilegalcmd
+    description: info|reload

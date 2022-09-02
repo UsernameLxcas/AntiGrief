@@ -1,0 +1,15 @@
+kick_when_execute: true
+kick_message: '&c&lYOU HAS BEEN KICKED FOR USING A ILEGAL COMMAND'
+No_Permissions: '&fUnknown command. Type "/help" for help.'
+user_ban: '&c&lNo!'
+reload_message: '&eAntiGrief has been reloaded'
+
+ilegal_commands:
+- //sphere
+- /op
+- /fill
+- //set
+- /setblock
+
+allowed_with_op:
+- 'Anytown'
